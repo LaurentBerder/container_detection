@@ -17,4 +17,4 @@ Training is done with the command:
 
 ## Test
 I created a Shiny app for the application of the model, which calls a python program to display side by side the original image and the result:
-![shiny_demo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![shiny_demo](https://github.com/LaurentBerder/container_detection/blob/master/shiny_demo.png "Shiny app")
