@@ -32,3 +32,6 @@ So the script captures all the frames, then labels each of them, and reconstruct
 ```bash
 python Video/label_video.py --video_file "path_to_video(s)_to_labelize"
 ```
+
+# Results
+![Result_video](https://github.com/LaurentBerder/container_detection/blob/master/video_result.gif "Result video")
