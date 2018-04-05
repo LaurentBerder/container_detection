@@ -115,12 +115,12 @@ def remove_temp_files(path):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--video_file', default='loading-of-a-container-ship_lowres.mp4', nargs='+')
-    parser.add_argument('--model', default="./model/model_iter_568500")
+    parser.add_argument('--video_file', nargs='+')
+    parser.add_argument('--model', default="../out/model_iter_568500")
     args = parser.parse_args()
 
-    path_in = "./temp/"
-    path_out = "./temp_out/"
+    path_in = "temp/"
+    path_out = "temp_out/"
 
     for file in args.video_file:
         remove_temp_files(path_in)
