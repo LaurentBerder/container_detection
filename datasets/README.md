@@ -2,13 +2,16 @@
 
 You'll only find here a few samples of the custom-labeled photos to see their format.
 
-You need to combine the labeled images with COCO images to decrease False Positives.
+I combined the labeled images with COCO images to decrease False Positives.
 
 ## Scripts
 
-+ from_COCO_to_custom_json
++ from_COCO_to_custom_json.py
 
-    Once you've downloaded and uncompressed the [COCO datasets](http://cocodataset.org/#download), run this script to translate the labels to the same format that the one used by the manual labeling tool.
-+ category_reduction
+    Once you've downloaded and uncompressed the [COCO datasets](http://cocodataset.org/#download), run this script to translate the labels to the same format that the one used by the manual labeling tool, and copy the concerned image files to the same folder. This uses the label YAML file to only select the files containing the type of objects that you want to use for training.
++ category_reduction.py
 
+    Manually labeling images is very tedious, so I unhappily wasn't able to do it over thousands of images. This resulted in a class imbalance between the object I was really aiming to detect (containers) and the objects existing in COCO. So I used this script to remove some of the COCO data in order to get a better balance.
++ downsize_all.py
     
+    Some of the images I wanted to use for testing were too large (resulting in a memory error during test), I set a maximum size and made sure none exceeded that size.
