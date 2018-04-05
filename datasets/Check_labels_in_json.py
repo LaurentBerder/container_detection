@@ -1,7 +1,7 @@
 import os
 import json
 
-directory = os.chdir("G:/My Drive/CMA-CGM/Reconnaissance_Container/Datasets/Data2/image_segmentation-Copy/")
+directory = os.chdir("train/")
 list = os.listdir(directory)
 
 for l in list:
