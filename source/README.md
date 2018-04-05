@@ -1,4 +1,4 @@
-This is where the main scripts are.
+This is where the main scripts are, as well as the YAML file with the list of existing classes to detect.
 
 
 ##### Label
