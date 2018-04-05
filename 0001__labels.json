@@ -1,0 +1,162 @@
+{
+   "image_filename": "0001.jpg",
+   "complete": null,
+   "labels": [
+      {
+         "object_id": 1,
+         "label_type": "box",
+         "size": {
+            "y": 62,
+            "x": 235
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 42.5625,
+            "x": 356.5
+         }
+      },
+      {
+         "object_id": 2,
+         "label_type": "box",
+         "size": {
+            "y": 83,
+            "x": 257
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 83.0625,
+            "x": 357.5
+         }
+      },
+      {
+         "object_id": 3,
+         "label_type": "box",
+         "size": {
+            "y": 87,
+            "x": 260
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 138.0625,
+            "x": 359
+         }
+      },
+      {
+         "object_id": 4,
+         "label_type": "box",
+         "size": {
+            "y": 88,
+            "x": 267
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 199.5625,
+            "x": 361.5
+         }
+      },
+      {
+         "object_id": 5,
+         "label_type": "box",
+         "size": {
+            "y": 83,
+            "x": 271
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 259.0625,
+            "x": 363.5
+         }
+      },
+      {
+         "object_id": 6,
+         "label_type": "box",
+         "size": {
+            "y": 79,
+            "x": 272
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 320.0625,
+            "x": 362
+         }
+      },
+      {
+         "object_id": 7,
+         "label_type": "box",
+         "size": {
+            "y": 27,
+            "x": 271
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 360.0625,
+            "x": 362.5
+         }
+      },
+      {
+         "object_id": 8,
+         "label_type": "box",
+         "size": {
+            "y": 56,
+            "x": 199
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 95.5625,
+            "x": 134.5
+         }
+      },
+      {
+         "object_id": 9,
+         "label_type": "box",
+         "size": {
+            "y": 67,
+            "x": 173
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 134.0625,
+            "x": 142.5
+         }
+      },
+      {
+         "object_id": 10,
+         "label_type": "box",
+         "size": {
+            "y": 64,
+            "x": 131
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 178.5625,
+            "x": 164.5
+         }
+      },
+      {
+         "object_id": 11,
+         "label_type": "box",
+         "size": {
+            "y": 66,
+            "x": 137
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 230.5625,
+            "x": 162.5
+         }
+      },
+      {
+         "object_id": 12,
+         "label_type": "box",
+         "size": {
+            "y": 68,
+            "x": 142
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 285.5625,
+            "x": 159
+         }
+      }
+   ]
+}
