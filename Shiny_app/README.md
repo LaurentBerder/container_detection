@@ -4,7 +4,7 @@ This is a Shiny application for detection of containers in photos.
 This application is inspired by [Road2stat's application](https://github.com/road2stat/imgsvd/) and uses a model based on [ChainerCV's implementation of SSD](https://github.com/chainer/chainercv/tree/master/examples/ssd),
 trained on [COCO Dataset](http://cocodataset.org/) and manually labeled data for the containers.
 
-![App]()
+![App](https://github.com/LaurentBerder/container_detection/blob/master/Shiny_app/shiny.jpg "Shiny App")
 
 ## Preparation
 
