@@ -110,10 +110,10 @@ def main():
         help='An image file to use for container detection')
     parser.add_argument('--pretrained_model',
                         help='The model to use for the forecast',
-                        default="./Models/model_iter_245000_en_haut")
+                        default="..sources/models/model_iter_245000")
     parser.add_argument('--label_names',
         help='The path to the yaml file with label names',
-        default="./Models/label_names_coco_container.yml")
+        default="../sources/label_names_coco_container.yml")
     parser.add_argument('--threshold', help='The value for score_tresh, varying the confidence-based bounding boxes shown',
         default=.55)
     args = parser.parse_args()
