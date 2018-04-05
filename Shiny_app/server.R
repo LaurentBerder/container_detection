@@ -62,9 +62,6 @@ shinyServer(function(input, output) {
 
     is_jpeg = imgtype == "image/jpeg"
 
-    #outfile2 = tempfile(fileext = ifelse(is_jpeg, ".jpg", ".png"))
-    #(if (is_jpeg) jpeg::writeJPEG else png::writePNG)(image = m, target = outfile2, 1)
-
     outfile2 = "./temp_result/result.png"
 
     return(list("out" = outfile2))
