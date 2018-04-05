@@ -8,7 +8,7 @@
 #######################################################
 ####### Make sure Python packages are installed: ######
 #######################################################
-# system("pip install -r requirements.txt")
+# system("pip install -r ../requirements.txt")
 
 library("shiny")
 library("rARPACK")
