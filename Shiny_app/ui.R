@@ -17,7 +17,7 @@ shinyUI(fluidPage(
     "#output_image img {max-width: 100%; width: 100%; height: auto}"
   )),
 
-  titlePanel(title=div(img(src="logo.jpg"), "Container Recognition Artificial Neuralnetwork GUI (CRANG)")),
+  titlePanel(title=div(img(src="https://ih0.redbubble.net/image.512525295.6965/flat,800x800,075,f.jpg"), "Container Recognition Artificial Neuralnetwork GUI (CRANG)")),
 
   tags$hr(),
 
