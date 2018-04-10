@@ -5,7 +5,7 @@ This project is based on ChainerCV API and [Single Shot MultiBox Detector](https
 The dataset used for training is a mix of COCO dataset and manually labeled images (using [yuyu21's tool](https://github.com/yuyu2172/image-labelling-tool)). The reason for this is that my first attempt, using only my labeled images, was very effective in terms of *True Positives*, but was also generating lots of *False Positives*, so I had to enrich the datasets for some negative mining.
 
 ## Labeling
-Labeling is done throug the graphical interface (using QT) with the command:
+Labeling is done throug the graphical interface (credit to [MIT](https://bitbucket.org/ueacomputervision/image-labelling-tool) ) with the command:
 ```bash
 python source/flask_app.py --image_dir datasets/train/ --label_names source/label_names_coco_container.yml --file_ext jpg
 ```
