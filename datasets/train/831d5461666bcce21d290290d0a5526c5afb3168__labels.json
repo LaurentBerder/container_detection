@@ -1,0 +1,45 @@
+{
+   "image_filename": "831d5461666bcce21d290290d0a5526c5afb3168.jpg",
+   "labels": [
+      {
+         "object_id": 1,
+         "label_type": "box",
+         "centre": {
+            "x": 189.9373126661677,
+            "y": 120.6459670735623
+         },
+         "label_class": "container",
+         "size": {
+            "x": 63.999999999999574,
+            "y": 43.99999999999973
+         }
+      },
+      {
+         "object_id": 2,
+         "label_type": "box",
+         "centre": {
+            "x": 128.1873126661681,
+            "y": 123.39596707356228
+         },
+         "label_class": "container",
+         "size": {
+            "x": 66.49999999999956,
+            "y": 44.499999999999716
+         }
+      },
+      {
+         "object_id": 3,
+         "label_type": "box",
+         "centre": {
+            "x": 68.18731266616851,
+            "y": 126.39596707356225
+         },
+         "label_class": "container",
+         "size": {
+            "x": 64.49999999999957,
+            "y": 44.499999999999716
+         }
+      }
+   ],
+   "complete": null
+}

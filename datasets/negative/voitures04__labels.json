@@ -1,0 +1,45 @@
+{
+   "labels": [
+      {
+         "centre": {
+            "x": 487.8179204919338,
+            "y": 249.8024054196099
+         },
+         "size": {
+            "x": 85.00367826978021,
+            "y": 52.84012432986336
+         },
+         "label_class": null,
+         "object_id": 1,
+         "label_type": "box"
+      },
+      {
+         "centre": {
+            "x": 192.02809408019874,
+            "y": 215.9158039471975
+         },
+         "size": {
+            "x": 49.39402926487227,
+            "y": 42.501839134890076
+         },
+         "label_class": null,
+         "object_id": 2,
+         "label_type": "box"
+      },
+      {
+         "centre": {
+            "x": 295.9852952074299,
+            "y": 183.17790082978217
+         },
+         "size": {
+            "x": 43.65053748988714,
+            "y": 36.758347359904946
+         },
+         "label_class": null,
+         "object_id": 3,
+         "label_type": "box"
+      }
+   ],
+   "complete": null,
+   "image_filename": "voitures04.jpg"
+}

@@ -1,0 +1,32 @@
+{
+   "image_filename": "0052.jpg",
+   "complete": null,
+   "labels": [
+      {
+         "object_id": 1,
+         "label_type": "box",
+         "size": {
+            "y": 151.4757980135254,
+            "x": 292.50498926749725
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 213.1861862188137,
+            "x": 176.34650418322386
+         }
+      },
+      {
+         "object_id": 2,
+         "label_type": "box",
+         "size": {
+            "y": 145.38194407045253,
+            "x": 50.49193267117512
+         },
+         "label_class": "container",
+         "centre": {
+            "y": 238.86742783604933,
+            "x": 25.741256732994614
+         }
+      }
+   ]
+}

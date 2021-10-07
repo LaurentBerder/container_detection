@@ -1,0 +1,45 @@
+{
+   "complete": null,
+   "labels": [
+      {
+         "label_type": "box",
+         "object_id": 1,
+         "label_class": "container",
+         "size": {
+            "y": 253.76673547035062,
+            "x": 131.133047514665
+         },
+         "centre": {
+            "y": 127.49235781331348,
+            "x": 159.04768795110442
+         }
+      },
+      {
+         "label_type": "box",
+         "object_id": 2,
+         "label_class": "container",
+         "size": {
+            "y": 227.0544480136596,
+            "x": 87.42203167644335
+         },
+         "centre": {
+            "y": 122.6355782757333,
+            "x": 49.16305091335273
+         }
+      },
+      {
+         "label_type": "box",
+         "object_id": 3,
+         "label_class": "container",
+         "size": {
+            "y": 253.76673547035062,
+            "x": 23.069702803505862
+         },
+         "centre": {
+            "y": 127.49235781331348,
+            "x": 245.2555247431527
+         }
+      }
+   ],
+   "image_filename": "208e70552b926a97ca5374eb4eab1e5a47b625d1.jpg"
+}

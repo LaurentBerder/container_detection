@@ -1,0 +1,84 @@
+{
+   "image_filename": "cc23dc6b876ecf4e5de257ca8a57a38fa794fb36.jpg",
+   "labels": [
+      {
+         "object_id": 1,
+         "label_type": "box",
+         "centre": {
+            "x": 83.461815718331,
+            "y": 100.11401547444976
+         },
+         "label_class": "container",
+         "size": {
+            "x": 89.49999999999984,
+            "y": 74.49999999999987
+         }
+      },
+      {
+         "object_id": 3,
+         "label_type": "box",
+         "centre": {
+            "x": 84.961815718331,
+            "y": 150.36401547444967
+         },
+         "label_class": "container",
+         "size": {
+            "x": 89.49999999999984,
+            "y": 58.999999999999915
+         }
+      },
+      {
+         "object_id": 4,
+         "label_type": "box",
+         "centre": {
+            "x": 158.21181571833085,
+            "y": 92.36401547444979
+         },
+         "label_class": "container",
+         "size": {
+            "x": 61.999999999999886,
+            "y": 54.9999999999999
+         }
+      },
+      {
+         "object_id": 5,
+         "label_type": "box",
+         "centre": {
+            "x": 159.21181571833085,
+            "y": 129.61401547444973
+         },
+         "label_class": "container",
+         "size": {
+            "x": 60.999999999999886,
+            "y": 45.499999999999915
+         }
+      },
+      {
+         "object_id": 6,
+         "label_type": "box",
+         "centre": {
+            "x": 221.46181571833074,
+            "y": 86.36401547444979
+         },
+         "label_class": "container",
+         "size": {
+            "x": 63.499999999999886,
+            "y": 43.999999999999915
+         }
+      },
+      {
+         "object_id": 7,
+         "label_type": "box",
+         "centre": {
+            "x": 221.71181571833074,
+            "y": 119.36401547444974
+         },
+         "label_class": "container",
+         "size": {
+            "x": 62.999999999999886,
+            "y": 30.99999999999997
+         }
+      }
+   ],
+   "complete": null
+}

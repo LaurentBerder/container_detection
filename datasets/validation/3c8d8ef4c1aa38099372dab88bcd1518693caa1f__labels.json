@@ -1,0 +1,32 @@
+{
+   "complete": null,
+   "labels": [
+      {
+         "label_class": "container",
+         "size": {
+            "x": 99.67803949740617,
+            "y": 56.58578661424805
+         },
+         "object_id": 1,
+         "centre": {
+            "x": 128.62854690284885,
+            "y": 134.65047747326466
+         },
+         "label_type": "box"
+      },
+      {
+         "label_class": "truck",
+         "size": {
+            "x": 148.86414632363716,
+            "y": 94.8900113992775
+         },
+         "object_id": 2,
+         "centre": {
+            "x": 103.6002182080853,
+            "y": 153.80258986577937
+         },
+         "label_type": "box"
+      }
+   ],
+   "image_filename": "3c8d8ef4c1aa38099372dab88bcd1518693caa1f.jpg"
+}

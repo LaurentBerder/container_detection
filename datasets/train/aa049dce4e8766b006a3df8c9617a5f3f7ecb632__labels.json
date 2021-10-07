@@ -1,0 +1,97 @@
+{
+   "image_filename": "aa049dce4e8766b006a3df8c9617a5f3f7ecb632.jpg",
+   "labels": [
+      {
+         "object_id": 1,
+         "label_type": "box",
+         "centre": {
+            "x": 122.03495703865016,
+            "y": 118.66690705563315
+         },
+         "label_class": "container",
+         "size": {
+            "x": 108.19964868337702,
+            "y": 85.10826024485142
+         }
+      },
+      {
+         "object_id": 2,
+         "label_type": "box",
+         "centre": {
+            "x": 174.81527346956577,
+            "y": 214.99098454205415
+         },
+         "label_class": "container",
+         "size": {
+            "x": 160.97996511429267,
+            "y": 81.14973651253274
+         }
+      },
+      {
+         "object_id": 3,
+         "label_type": "box",
+         "centre": {
+            "x": 174.48539649187256,
+            "y": 149.01558900340962
+         },
+         "label_class": "container",
+         "size": {
+            "x": 106.22038681721769,
+            "y": 73.23268904789543
+         }
+      },
+      {
+         "object_id": 4,
+         "label_type": "box",
+         "centre": {
+            "x": 199.22616981886424,
+            "y": 95.57551861710756
+         },
+         "label_class": "container",
+         "size": {
+            "x": 55.4193322524614,
+            "y": 46.8425308324376
+         }
+      },
+      {
+         "object_id": 5,
+         "label_type": "box",
+         "centre": {
+            "x": 38.24620470457161,
+            "y": 118.99678403332638
+         },
+         "label_class": "container",
+         "size": {
+            "x": 73.89244300328187,
+            "y": 63.33637971709875
+         }
+      },
+      {
+         "object_id": 6,
+         "label_type": "box",
+         "centre": {
+            "x": 31.978542128400377,
+            "y": 194.86848890276758
+         },
+         "label_class": "container",
+         "size": {
+            "x": 62.6766257617123,
+            "y": 102.92161704028544
+         }
+      },
+      {
+         "object_id": 7,
+         "label_type": "box",
+         "centre": {
+            "x": 31.978542128400377,
+            "y": 242.04089671289842
+         },
+         "label_class": "container",
+         "size": {
+            "x": 62.6766257617123,
+            "y": 27.049912170844237
+         }
+      }
+   ],
+   "complete": null
+}

@@ -1,0 +1,19 @@
+{
+   "image_filename": "0179.jpg",
+   "complete": null,
+   "labels": [
+      {
+         "label_type": "box",
+         "object_id": 1,
+         "size": {
+            "x": 663.3595292316467,
+            "y": 349.961326445042
+         },
+         "label_class": "ship",
+         "centre": {
+            "x": 360.39167448844347,
+            "y": 270.47837647491787
+         }
+      }
+   ]
+}

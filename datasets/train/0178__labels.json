@@ -1,0 +1,32 @@
+{
+   "image_filename": "0178.jpg",
+   "complete": null,
+   "labels": [
+      {
+         "label_type": "box",
+         "object_id": 1,
+         "size": {
+            "x": 482.2850120660528,
+            "y": 189.7800227985551
+         },
+         "label_class": "ship",
+         "centre": {
+            "x": 362.1327756150357,
+            "y": 270.47837647491787
+         }
+      },
+      {
+         "label_type": "box",
+         "object_id": 2,
+         "size": {
+            "x": 62.67662576171239,
+            "y": 37.60597545702751
+         },
+         "label_class": "boat",
+         "centre": {
+            "x": 385.5313772345007,
+            "y": 328.204778607443
+         }
+      }
+   ]
+}

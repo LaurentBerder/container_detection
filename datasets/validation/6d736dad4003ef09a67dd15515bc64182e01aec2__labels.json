@@ -1,0 +1,84 @@
+{
+   "labels": [
+      {
+         "label_class": "container",
+         "label_type": "box",
+         "size": {
+            "x": 62.67964055732092,
+            "y": 124.48873055134572
+         },
+         "centre": {
+            "x": 32.30434400032083,
+            "y": 120.00807441416919
+         },
+         "object_id": 1
+      },
+      {
+         "label_class": "container",
+         "label_type": "box",
+         "size": {
+            "x": 80.96120238653953,
+            "y": 100.11331477905424
+         },
+         "centre": {
+            "x": 98.03091152917818,
+            "y": 122.61972610405755
+         },
+         "object_id": 2
+      },
+      {
+         "label_class": "container",
+         "label_type": "box",
+         "size": {
+            "x": 65.29129224720927,
+            "y": 74.86734844346665
+         },
+         "centre": {
+            "x": 167.6749565928681,
+            "y": 127.40775420218623
+         },
+         "object_id": 3
+      },
+      {
+         "label_class": "container",
+         "label_type": "box",
+         "size": {
+            "x": 14.645904026212207,
+            "y": 37.619871126152844
+         },
+         "centre": {
+            "x": 205.0185983059656,
+            "y": 133.78869007131078
+         },
+         "object_id": 4
+      },
+      {
+         "label_class": "container",
+         "label_type": "box",
+         "size": {
+            "x": 10.051110606224029,
+            "y": 31.876379351167685
+         },
+         "centre": {
+            "x": 216.2184072671867,
+            "y": 133.5015154825615
+         },
+         "object_id": 5
+      },
+      {
+         "label_class": "container",
+         "label_type": "box",
+         "size": {
+            "x": 11.199808961221066,
+            "y": 27.5687605199288
+         },
+         "centre": {
+            "x": 226.26951787341073,
+            "y": 133.07075359943764
+         },
+         "object_id": 6
+      }
+   ],
+   "image_filename": "6d736dad4003ef09a67dd15515bc64182e01aec2.jpg",
+   "complete": null
+}

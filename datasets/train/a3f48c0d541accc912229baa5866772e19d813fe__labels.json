@@ -1,0 +1,45 @@
+{
+   "image_filename": "a3f48c0d541accc912229baa5866772e19d813fe.jpg",
+   "labels": [
+      {
+         "object_id": 1,
+         "label_type": "box",
+         "centre": {
+            "x": 131.60138939175363,
+            "y": 195.52824285815402
+         },
+         "label_class": "ship",
+         "size": {
+            "x": 110.17891054953637,
+            "y": 73.89244300328187
+         }
+      },
+      {
+         "object_id": 2,
+         "label_type": "box",
+         "centre": {
+            "x": 127.97274263712815,
+            "y": 77.43228484398033
+         },
+         "label_class": "container",
+         "size": {
+            "x": 253.34551886839498,
+            "y": 154.38242556042817
+         }
+      },
+      {
+         "object_id": 3,
+         "label_type": "box",
+         "centre": {
+            "x": 26.700510485308815,
+            "y": 176.72525512964032
+         },
+         "label_class": "container",
+         "size": {
+            "x": 52.12056247552918,
+            "y": 133.9300529434484
+         }
+      }
+   ],
+   "complete": null
+}

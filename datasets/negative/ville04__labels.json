@@ -1,0 +1,32 @@
+{
+   "labels": [
+      {
+         "centre": {
+            "x": 200.11623901844138,
+            "y": 128.2250518352626
+         },
+         "size": {
+            "x": 24.999999999999886,
+            "y": 8.499999999999957
+         },
+         "label_class": null,
+         "object_id": 1,
+         "label_type": "box"
+      },
+      {
+         "centre": {
+            "x": 87.86623901844177,
+            "y": 102.97505183526269
+         },
+         "size": {
+            "x": 21.499999999999915,
+            "y": 18.99999999999993
+         },
+         "label_class": null,
+         "object_id": 2,
+         "label_type": "box"
+      }
+   ],
+   "complete": null,
+   "image_filename": "ville04.jpg"
+}

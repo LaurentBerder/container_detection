@@ -1,0 +1,19 @@
+{
+   "complete": null,
+   "labels": [
+      {
+         "label_type": "box",
+         "object_id": 1,
+         "label_class": "container",
+         "size": {
+            "y": 125.00000762939453,
+            "x": 232
+         },
+         "centre": {
+            "y": 129.98333358764648,
+            "x": 132
+         }
+      }
+   ],
+   "image_filename": "12f1a3df8fe7b130588ddbb733be26dcb358010f.jpg"
+}

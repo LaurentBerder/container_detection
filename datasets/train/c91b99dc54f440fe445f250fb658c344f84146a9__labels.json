@@ -1,0 +1,45 @@
+{
+   "image_filename": "c91b99dc54f440fe445f250fb658c344f84146a9.jpg",
+   "labels": [
+      {
+         "object_id": 1,
+         "label_type": "box",
+         "centre": {
+            "x": 218.2174721376798,
+            "y": 86.50938574800813
+         },
+         "label_class": "container",
+         "size": {
+            "x": 70.59367322634964,
+            "y": 65.3156415832581
+         }
+      },
+      {
+         "object_id": 2,
+         "label_type": "box",
+         "centre": {
+            "x": 123.87265651741815,
+            "y": 81.5612310826098
+         },
+         "label_class": "container",
+         "size": {
+            "x": 122.05448174649237,
+            "y": 77.85096673560055
+         }
+      },
+      {
+         "object_id": 3,
+         "label_type": "box",
+         "centre": {
+            "x": 134.42871980360127,
+            "y": 114.87880582962529
+         },
+         "label_class": "truck",
+         "size": {
+            "x": 239.4906858052796,
+            "y": 140.52759249731287
+         }
+      }
+   ],
+   "complete": null
+}

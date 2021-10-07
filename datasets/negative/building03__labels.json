@@ -1,0 +1,19 @@
+{
+   "labels": [
+      {
+         "centre": {
+            "x": 951.3197301617091,
+            "y": 743.6636558153812
+         },
+         "size": {
+            "x": 1667.8579992169373,
+            "y": 1155.8889298370545
+         },
+         "label_class": null,
+         "object_id": 1,
+         "label_type": "box"
+      }
+   ],
+   "complete": null,
+   "image_filename": "building03.jpg"
+}
